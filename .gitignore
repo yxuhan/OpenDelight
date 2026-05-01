@@ -1,0 +1,9 @@
+.vscode/*
+*.py[cod]
+
+data/*
+workspace/*
+pretrained/*
+matting/model/foreground-segmentation-model-vitl16_384.onnx
+
+*.sh

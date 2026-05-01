@@ -1,0 +1,17 @@
+encoder: {
+  type: mae_mix,
+  model_type: base,
+  img_size: 512,
+  num_reg_tokens: 4,
+}
+
+
+decoder: {
+  type: sapiens,
+  in_channels: 768,
+  out_channels: 3,
+  deconv_out_channels: [512, 512, 512, 512],
+  deconv_kernel_sizes: [4, 4, 4, 4],
+  conv_out_channels: [512, 512, 512, 512],
+  conv_kernel_sizes: [1, 1, 1, 1]
+}
