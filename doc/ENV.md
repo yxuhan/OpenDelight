@@ -30,7 +30,8 @@ pip install tqdm \
     setuptools==44.0.0 \
     pyfacer \
     onnx==1.18.0 \
-    onnxruntime-gpu==1.22.0
+    onnxruntime-gpu==1.22.0 \
+    kornia
 ```
 
 Then, install ibug face-raleted libs:
