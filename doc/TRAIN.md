@@ -98,3 +98,5 @@ CUDA_VISIBLE_DEVICE=0,1 python ttrain_enhancer.py \
     --conf_alpha 0.2 \
     --ddp_port 12355
 ```
+
+We provide our own training logs and corresponding pre-trained weights [here](https://drive.google.com/file/d/1ct-DG5oaiwPiGD37CPZlp8o53BLYYPUH/view?usp=sharing) for your reference, which were trained on 2 x NVIDIA RTX 3090 GPUs.

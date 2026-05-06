@@ -8,7 +8,7 @@ This is a PyTorch implementation of the following paper:
 
 Yuxuan Han, Xin Ming, Tianxiao Li, Zhuofan Shen, Qixuan Zhang, Lan Xu, and Feng Xu
 
-[Project Page](https://yxuhan.github.io/OpenDelight/index.html) | [Video](https://www.youtube.com/watch?v=cfHw-IWA35c) | [Paper]()
+[Project Page](https://yxuhan.github.io/OpenDelight/index.html) | [Video](https://www.youtube.com/watch?v=cfHw-IWA35c) | [Paper]() | [Dataset](https://huggingface.co/datasets/yxuhan76/OpenDelight-Dataset)
 
 ## Feature
 OpenDelight is a **fully open-source, high-performance** delighting prior tailored for facial appearance capture.
